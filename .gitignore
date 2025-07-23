@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# PyInstaller output
+*.spec
+
+# Logs and reports
+*.log
+*.tmp
+
+# Windows and Linux hidden/system files
+Thumbs.db
+.DS_Store
+
+# Virtual environment
+venv/
+.env/
+
+
+
